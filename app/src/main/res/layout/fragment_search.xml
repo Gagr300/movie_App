@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/MyLinearLayout">
+
+    <com.google.android.material.appbar.CollapsingToolbarLayout
+        android:id="@+id/toolbar_search"
+        style="@style/MyToolbar">
+
+        <SearchView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/baseline_notifications_none"
+            android:layout_marginRight="15dp"
+            android:id="@+id/search_view"/>
+    </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+</LinearLayout>

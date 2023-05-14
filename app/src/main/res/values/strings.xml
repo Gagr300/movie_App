@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">movie_App</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_ticket">Tickets</string>
+    <string name="title_bookmark">Bookmarks</string>
+
+
+    <string name="desc_home">Notification list</string>
+    <string name="movie_title">Movie title</string>
+    <string name="default_imdb_rating">IMDb rating: 7,4</string>
+    <string name="default_tags">HORROR</string>
+
+    <string name="desc_settings">Preferences</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
